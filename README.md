@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%Backend%Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Fresh Backend Developer
@@ -18,8 +18,6 @@
 ### Connect with Me :
 
 <a href="www.linkedin.com/in/sara-mohamed-6297121b5" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
-<a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -32,9 +30,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php);
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql);
-![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel);
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)&nbsp;
+![Laravel](https://img.shields.io/badge/LARAVEL-black?style=flat-square&logo=laravel)&nbsp;
 
 
 
