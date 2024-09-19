@@ -8,16 +8,16 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Fresh%20Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Fresh Backend Developer
+- 🏢 I'm a Junior Backend Developer
 - 👨‍💻 I'm instantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, and SQL, or anything related to web development.
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/sara-mohamed-6297121b5" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sara-mohamed6295/" target="_blank"><img src="https://img.shields.io/badge/-Sara%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
